@@ -5,7 +5,7 @@ This is a simple script to install an OpenVPN server and add/remove users (using
 
 Run the following on the machine you want to use as your OpenVPN server:
 
-    $ wget https://raw.githubusercontent.com/solomonudoh/openvpn-install/master/manage-openvpn.sh
+    $ wget https://raw.githubusercontent.com/udohsolomon/openvpn-install/master/manage-openvpn.sh
     $ chmod +x manage-openvpn.sh
     $ sudo ./manage-openvpn.sh -i
 
